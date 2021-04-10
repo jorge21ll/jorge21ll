@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jorge Luis
+- 🌱 I’m currently working at Prefeitura Municipal de Sobral - CE.
+- 🌱 I’m currently learning JAVASCRIPT, CSS, NODEJS, REACT, REACT NATIVE.
+- 📫 How to reach me: @jorge.lllucio
